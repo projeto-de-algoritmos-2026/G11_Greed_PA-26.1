@@ -49,7 +49,7 @@ git clone https://github.com/projeto-de-algoritmos-2026/G11_Greed_PA-26.1.git
 2. Entre na pasta do projeto:
 
 ```bash
-cd G11_Greedy_PA-26.1
+cd G11_Greed_PA-26.1
 ```
 
 3. Instale as dependencias:
