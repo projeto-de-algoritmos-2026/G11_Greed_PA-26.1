@@ -43,7 +43,7 @@ Framework: React + Vite<br>
 1. Clone o repositorio:
 
 ```bash
-git clone https://github.com/projeto-de-algoritmos-2026/G11_Greedy_PA-26.1.git
+git clone https://github.com/projeto-de-algoritmos-2026/G11_Greed_PA-26.1.git
 ```
 
 2. Entre na pasta do projeto:
@@ -83,5 +83,5 @@ http://localhost:5173
 - Dados ficam em memoria (sem banco de dados persistente).
 - O algoritmo de Interval Partition esta em `src/utils/intervalPartition.js`.
 
-# Video de Apresentacao\
-Em breve.
+# Video de Apresentacao
+[Vídeo Apresentação da Entrega 2 - Algoritmos Ambiciosos](https://youtu.be/hkam1rHfhF4)
